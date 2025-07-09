@@ -3,7 +3,7 @@
 
 Keep your apps running in the foreground indefinitely, even if they are in the background!
 
-**For iOS 15+**
+**For iOS 15 above, [download here](https://github.com/sergealagon/ImmortalizerTS/releases/download/Release/ImmortalizerTS.1.0b.tipa)**
 
 _This is the TrollStore version of the tweak [Immortalizer](https://github.com/sergealagon/Immortalizer), with some changes and tricks to keep apps running in the foreground without jailbreak._
 
