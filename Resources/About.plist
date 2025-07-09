@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Description</string>
+			<key>footerText</key>
+			<string>ImmortalizerTS is a TrollStore version of the tweak Immortalizer, which lets you trick apps they are running in the foreground even though they are in the background.&#10;&#10;LIMITATIONS&#10;&#10;•Depending on the app (these apps have their own notification when they are open; e.g. WhatsApp), it cannot force an app to show notifications if it is foregrounded.&#10;&#10;•If an immortalized app supports multi-scene window, it can only immortalize the scene instance created inside, so you can only use the said app inside here.&#10;&#10;•If an app supports multi-scene, they can be used in window mode that floats over springboard by long pressing the immortalized app. However, keyboard doesn't work as it is invisible in window mode.&#10;&#10;•If ImmortalizerTS is killed, all immortalized apps will return to its normal background state.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>DEVELOPER</string>
+			<key>footerText</key>
+			<string>ImmortalizerTS v1.0b&#10;&#10;© 2025 Serge Alagon (sergy)&#10;&#10;Special thanks to:&#10;@khanhduytran0 - FrontBoardAppLauncher</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>supportPage</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Support me!</string>
+			<key>icon</key>
+			<string>coffee.png</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>sourceCode</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Source code</string>
+			<key>icon</key>
+			<string>github.png</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>socialPage</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Follow me!</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>About</string>
+</dict>
+</plist>

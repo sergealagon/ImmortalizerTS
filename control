@@ -1,0 +1,8 @@
+Package: com.sergy.immortalizerts
+Name: ImmortalizerTS
+Version: 1.0.0b
+Architecture: iphoneos-arm
+Description: Trick apps they are running in the foreground always
+Maintainer: Sergy
+Author: Sergy
+Section: Utilities
